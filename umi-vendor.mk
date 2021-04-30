@@ -460,79 +460,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/umi/proprietary/vendor/etc/wifi/aoa_cldb_swl14.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_swl14.bin \
     vendor/xiaomi/umi/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
     vendor/xiaomi/umi/proprietary/vendor/etc/xtwifi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/xtwifi.conf \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/AcousticGuitar_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/AcousticGuitar_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Atlantis_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Atlantis_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Bottle_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Bottle_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Bubble_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Bubble_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Bullfrog_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Bullfrog_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Burst_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Burst_RTP.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_Headshot_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_Headshot_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_Headshot_Strong_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_Headshot_Strong_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_Hero_Appear_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_Hero_Appear_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_ImpactFlesh_Normal_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_ImpactFlesh_Normal_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_KillOne_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_KillOne_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_KillOne_Strong_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_KillOne_Strong_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_MultiKill_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_MultiKill_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_MultiKill_Strong_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_MultiKill_Strong_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_UI_Reward_OpenBox_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_UI_Reward_OpenBox_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_UI_Reward_Task_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_UI_Reward_Task_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_Weapon_BLT_Shoot_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_Weapon_BLT_Shoot_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_Weapon_C4_Installed_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_Weapon_C4_Installed_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_Weapon_Grenade_Explode_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_Weapon_Grenade_Explode_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/CFM_Weapon_Grenade_KillOne_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/CFM_Weapon_Grenade_KillOne_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Candy_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Candy_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Carousel_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Carousel_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Celesta_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Celesta_RTP.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/Charge_Wire_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Charge_Wire_RTP.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/Charge_Wireless_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Charge_Wireless_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Childhood_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Childhood_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Chirp_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Chirp_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Clank_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Clank_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Country_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Country_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Cowboy_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Cowboy_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Crystal_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Crystal_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/DigitalUniverse_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/DigitalUniverse_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/FaceID_Wrong2_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/FaceID_Wrong2_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/FadeIn_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/FadeIn_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/FadeOut_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/FadeOut_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Fairyland_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Fairyland_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Fantasy_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Fantasy_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Field_Trip_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Field_Trip_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Flute_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Flute_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Fresh_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Fresh_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Frog_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Frog_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/GT9896_test_sensor_1.tporder:$(TARGET_COPY_OUT_VENDOR)/firmware/GT9896_test_sensor_1.tporder \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Gesture_UpSlide_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Gesture_UpSlide_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Glee_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Glee_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Guitar_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Guitar_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Harp_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Harp_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Ice_Latte_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Ice_Latte_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/IncomingMessage_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/IncomingMessage_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Kung_Fu_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Kung_Fu_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Lollipop_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Lollipop_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/MIX_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/MIX_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/MessageSent_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/MessageSent_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/MiClassicRemix_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/MiClassicRemix_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/MiHouse_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/MiHouse_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/MiJazz_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/MiJazz_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/MiRemix_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/MiRemix_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Mi_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Mi_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Moment_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Moment_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Mountain_Spring_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Mountain_Spring_RTP.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/NFC_card_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/NFC_card_rtp.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/NFC_card_slow_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/NFC_card_slow_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/NotificationXylophone_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/NotificationXylophone_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Orange_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Orange_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Potion_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Potion_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Radar_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Radar_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Reveries_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Reveries_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Space_Age_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Space_Age_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Spring_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Spring_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Swoosh_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Swoosh_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/ToyRobot_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ToyRobot_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Unlock_Failed_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Unlock_Failed_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/Vigor_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/Vigor_RTP.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/a650_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_gmu.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/a650_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_sqe.fw \
     vendor/xiaomi/umi/proprietary/vendor/firmware/a650_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b00 \
@@ -542,8 +474,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/umi/proprietary/vendor/firmware/a650_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.mdt \
     vendor/xiaomi/umi/proprietary/vendor/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/aw8697_rtp_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_rtp_1.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/bandage_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/bandage_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/crawl_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/crawl_RTP.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/cs35l41-dsp1-diag-revb2.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-diag-revb2.wmfw \
     vendor/xiaomi/umi/proprietary/vendor/firmware/cs35l41-dsp1-diag-z-RCV-revb2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-diag-z-RCV-revb2.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/cs35l41-dsp1-diag-z-revb2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-diag-z-revb2.bin \
@@ -557,20 +487,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/umi/proprietary/vendor/firmware/cs35l41-dsp1-spk-prot-revb2.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-spk-prot-revb2.wmfw \
     vendor/xiaomi/umi/proprietary/vendor/firmware/cs35l41-dsp1-spk-prot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-spk-prot.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/cs35l41-dsp1-spk-prot.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs35l41-dsp1-spk-prot.wmfw \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/door_open_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/door_open_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_akm_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_akm_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_awm_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_awm_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_dp28_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_dp28_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_m16a4_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_m16a4_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_mini14_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_mini14_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_p18c_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_p18c_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_qbz_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_qbz_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_s1897_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_s1897_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_ump9_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_ump9_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/firearms_vss_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/firearms_vss_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/grenade_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/grenade_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/grenade_explosion_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/grenade_explosion_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/gtx8_test_limits.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/gtx8_test_limits.csv \
     vendor/xiaomi/umi/proprietary/vendor/firmware/ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b00 \
     vendor/xiaomi/umi/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
     vendor/xiaomi/umi/proprietary/vendor/firmware/ipa_fws.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b02 \
@@ -583,40 +499,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/umi/proprietary/vendor/firmware/ipa_uc.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.b02 \
     vendor/xiaomi/umi/proprietary/vendor/firmware/ipa_uc.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.elf \
     vendor/xiaomi/umi/proprietary/vendor/firmware/ipa_uc.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.mdt \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/launcher_edit_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/launcher_edit_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/launcher_icon_selection_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/launcher_icon_selection_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/lockscreen_camera_entry_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/lockscreen_camera_entry_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/magazine_quick_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/magazine_quick_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/new_iconfolder_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/new_iconfolder_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/notification_cleanall_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/notification_cleanall_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/notification_remove_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/notification_remove_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/notification_setting_close_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/notification_setting_close_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/offline_countdown_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/offline_countdown_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/pan_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/pan_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/punch_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/punch_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scene_bomb_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scene_bomb_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scene_bomb_injury_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scene_bomb_injury_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scene_closeparachute_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scene_closeparachute_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scene_getshot_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scene_getshot_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scene_jump_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scene_jump_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scene_openparachute_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scene_openparachute_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scene_step_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scene_step_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scope_off_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scope_off_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/scope_on_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/scope_on_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/screenshot_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/screenshot_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/stm_fts_production_limits.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/stm_fts_production_limits.csv \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/stm_fts_production_limits_1.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/stm_fts_production_limits_1.csv \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/stm_fts_production_limits_2.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/stm_fts_production_limits_2.csv \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/task_cleanall_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/task_cleanall_rtp.bin \
     vendor/xiaomi/umi/proprietary/vendor/firmware/umi_ois.coeff:$(TARGET_COPY_OUT_VENDOR)/firmware/umi_ois.coeff \
     vendor/xiaomi/umi/proprietary/vendor/firmware/umi_ois.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/umi_ois.prog \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/uninstall_animation_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uninstall_animation_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/uninstall_dialog_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uninstall_dialog_rtp.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/vehicle_buggy_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vehicle_buggy_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/vehicle_collision_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vehicle_collision_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/vehicle_dacia_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vehicle_dacia_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/vehicle_moto_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vehicle_moto_RTP.bin \
-    vendor/xiaomi/umi/proprietary/vendor/firmware/vehicle_plane_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vehicle_plane_RTP.bin \
     vendor/xiaomi/umi/proprietary/vendor/lib/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib/btaudio_offload_if.so \
     vendor/xiaomi/umi/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/eglSubDriverAndroid.so \
     vendor/xiaomi/umi/proprietary/vendor/lib/egl/libEGL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libEGL_adreno.so \
